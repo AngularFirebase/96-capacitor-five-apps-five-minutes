@@ -1,0 +1,6 @@
+{
+  "appId": "com.angularfirebase.capapp",
+  "appName": "capApp",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}
